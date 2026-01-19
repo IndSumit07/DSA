@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_12_2026/Hourglass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_12_2026/Huge_Pile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_12_2026/Social_Experiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFG/Day_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Fabonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Count_digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Fact_Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Print_Ascending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Print_Decending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Prod_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Reverse_Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Sum_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Sum_Num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +45,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/IndSumit07/Daily-DSA.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/IndSumit07/DSA.git&quot;,
     &quot;accountId&quot;: &quot;dd7d1a71-109b-4c4e-8879-831b7949b9fb&quot;
   }
 }</component>
@@ -60,18 +66,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Count_digits.executor": "Run",
     "Application.Day_01.executor": "Run",
     "Application.Day_08.executor": "Run",
     "Application.Day_09.executor": "Run",
     "Application.Day_14.executor": "Run",
     "Application.Fabonacci.executor": "Run",
+    "Application.Fact_Num.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Hourglass.executor": "Run",
     "Application.Huge_Pile.executor": "Run",
     "Application.Ninjas_Training.executor": "Run",
     "Application.Power.executor": "Run",
+    "Application.Print_Ascending.executor": "Run",
+    "Application.Print_Decending.executor": "Run",
     "Application.Problem_A.executor": "Run",
+    "Application.Problem_B.executor": "Run",
+    "Application.Problem_C.executor": "Run",
+    "Application.Problem_D.executor": "Run",
+    "Application.Problem_E.executor": "Run",
+    "Application.Prod_Digits.executor": "Run",
+    "Application.Reverse_Num.executor": "Run",
     "Application.Social_Experiment.executor": "Run",
+    "Application.Sum_Digits.executor": "Run",
+    "Application.Sum_Num.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.Unique_Paths.executor": "Run",
     "Application.Unique_Paths_2.executor": "Run",
@@ -80,6 +98,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/devel/OneDrive/Desktop/DSA/DSA",
     "onboarding.tips.debug.path": "C:/Users/devel/OneDrive/Desktop/Daily DSA/src/Main.java",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
@@ -88,26 +107,6 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Codeforces_Contests" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monu_Bhaiya.Recursion.Power" />
-      <module name="Daily DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Monu_Bhaiya.Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Power" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

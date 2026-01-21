@@ -5,22 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_18_2026/Problem_E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Count_digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Fact_Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Print_Ascending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Print_Decending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Prod_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Reverse_Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Sum_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Sum_Num.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Check_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Check_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Count_Occur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/First_Occur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Max_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Min_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Sum_Of_Element.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +59,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Check_Palindrome.executor": "Run",
+    "Application.Check_Sorted.executor": "Run",
+    "Application.Count_Occur.executor": "Run",
     "Application.Count_digits.executor": "Run",
     "Application.Day_01.executor": "Run",
     "Application.Day_08.executor": "Run",
@@ -74,8 +70,11 @@
     "Application.Fabonacci.executor": "Run",
     "Application.Fact_Num.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.First_Occur.executor": "Run",
     "Application.Hourglass.executor": "Run",
     "Application.Huge_Pile.executor": "Run",
+    "Application.Max_Element.executor": "Run",
+    "Application.Min_Element.executor": "Run",
     "Application.Ninjas_Training.executor": "Run",
     "Application.Power.executor": "Run",
     "Application.Print_Ascending.executor": "Run",
@@ -90,6 +89,7 @@
     "Application.Social_Experiment.executor": "Run",
     "Application.Sum_Digits.executor": "Run",
     "Application.Sum_Num.executor": "Run",
+    "Application.Sum_Of_Element.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.Unique_Paths.executor": "Run",
     "Application.Unique_Paths_2.executor": "Run",
@@ -106,6 +106,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Codeforces_Contests" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Monu_Bhaiya.Recursion.Recursion_Sheet" />
     </key>
   </component>
   <component name="TaskManager">
@@ -172,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768046792069</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Codeforces DIV4 question solved">
+      <option name="closed" value="true" />
+      <created>1768818367200</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768818367200</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +211,7 @@
     <MESSAGE value="Solved Unique_Paths and Unique_Paths_2 from Leetcode" />
     <MESSAGE value="Day 09 Done" />
     <MESSAGE value="Solved Triangle Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved Triangle Problem" />
+    <MESSAGE value="Codeforces DIV4 question solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

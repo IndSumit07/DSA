@@ -5,15 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Check_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Check_Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Count_Occur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/First_Occur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Max_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Min_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Recursion_Sheet/Sum_Of_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_Statistics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/January_31_2026/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/January_31_2026/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/January_31_2026/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_23_2026/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_29_2026/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_29_2026/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_29_2026/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Questions/Array_Coloring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Questions/Operations_With_Inversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Catch_The_Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Chewbacca_And_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/DIV_64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Digital_Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Grandfather_Dovlet_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Happy_Birthday_Polycarp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/If_At_First_You_Dont_Succeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Level_Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Playing_With_Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Coin_Flip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Dice_Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Maze_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Subsequences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Notes" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,57 +78,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Check_Palindrome.executor": "Run",
-    "Application.Check_Sorted.executor": "Run",
-    "Application.Count_Occur.executor": "Run",
-    "Application.Count_digits.executor": "Run",
-    "Application.Day_01.executor": "Run",
-    "Application.Day_08.executor": "Run",
-    "Application.Day_09.executor": "Run",
-    "Application.Day_14.executor": "Run",
-    "Application.Fabonacci.executor": "Run",
-    "Application.Fact_Num.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.First_Occur.executor": "Run",
-    "Application.Hourglass.executor": "Run",
-    "Application.Huge_Pile.executor": "Run",
-    "Application.Max_Element.executor": "Run",
-    "Application.Min_Element.executor": "Run",
-    "Application.Ninjas_Training.executor": "Run",
-    "Application.Power.executor": "Run",
-    "Application.Print_Ascending.executor": "Run",
-    "Application.Print_Decending.executor": "Run",
-    "Application.Problem_A.executor": "Run",
-    "Application.Problem_B.executor": "Run",
-    "Application.Problem_C.executor": "Run",
-    "Application.Problem_D.executor": "Run",
-    "Application.Problem_E.executor": "Run",
-    "Application.Prod_Digits.executor": "Run",
-    "Application.Reverse_Num.executor": "Run",
-    "Application.Social_Experiment.executor": "Run",
-    "Application.Sum_Digits.executor": "Run",
-    "Application.Sum_Num.executor": "Run",
-    "Application.Sum_Of_Element.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.Unique_Paths.executor": "Run",
-    "Application.Unique_Paths_2.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/devel/OneDrive/Desktop/DSA/DSA",
-    "onboarding.tips.debug.path": "C:/Users/devel/OneDrive/Desktop/Daily DSA/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array_Coloring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Catch_The_Coin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check_Sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Coin_Flip.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Occur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DIV_64.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day_14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dice_Throw.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Digital_Sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fabonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fact_Num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_Occur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Grandfather_Dovlet_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Happy_Birthday_Polycarp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hourglass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Huge_Pile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_At_First_You_Dont_Succeed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Level_Statistics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_Element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Min_Element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ninjas_Training.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operations_With_Inversions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Playing_With_Paper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print_Ascending.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print_Decending.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_C.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_E.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prod_Digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_Num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Social_Experiment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subsequences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_Digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_Num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_Of_Element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unique_Paths.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unique_Paths_2.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/devel/OneDrive/Desktop/DSA/DSA&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/devel/OneDrive/Desktop/Daily DSA/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Codeforces_Contests" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AtCoder_Contests.January_31_2026" />
+      <recent name="Codeforces_Contests.January_29_2026" />
+      <recent name="Codeforces_Contests.January_25_2026" />
       <recent name="Monu_Bhaiya.Recursion.Recursion_Sheet" />
     </key>
   </component>

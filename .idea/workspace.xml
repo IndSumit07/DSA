@@ -5,34 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="Questions added">
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_445/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_445/Problem_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_445/Problem_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_445/Problem_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Begineer_Contest_444/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Begineer_Contest_444/Problem_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Begineer_Contest_444/Problem_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Begineer_Contest_444/Problem_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Regular_Contest_214/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contests/Starters_224/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_15_2026_Div3/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_15_2026_Div3/Problem_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_15_2026_Div3/Problem_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_15_2026_Div3/Problem_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/Post_Contest_Questions/Sorting_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Backtracking/Coin_Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Backtracking/Queen_Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/February_05_2026/Tower_Of_Hanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/February_18/Palindrome_Partitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Bit_Manipulation/Binary_To_Decimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Bit_Manipulation/Decimal_To_Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Graphs/Representation_In_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_21_Div2/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_21_Div2/Problem_B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,11 +121,11 @@
       <recent name="Codeforces_Contests" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Codeforces_Contests.February_21_Div2" />
       <recent name="AtCoder_Contests.AtCoder_Begineer_Contest_446" />
       <recent name="Codeforces_Contests.January_15_2026_Div3" />
       <recent name="AtCoder_Contests.AtCoder_Begineer_Contest_445" />
       <recent name="AtCoder_Contests.Begineer_Contest_444" />
-      <recent name="AtCoder_Contests.January_31_2026" />
     </key>
   </component>
   <component name="TaskManager">
@@ -234,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769972476694</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Questions added">
+      <option name="closed" value="true" />
+      <created>1771682037388</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771682037388</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -4,37 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Level_Statistics" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/January_31_2026/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/January_31_2026/Problem_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/January_31_2026/Problem_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_23_2026/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_25_2026/Problem_E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_29_2026/Problem_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_29_2026/Problem_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_29_2026/Problem_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Questions/Array_Coloring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Questions/Operations_With_Inversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Catch_The_Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Chewbacca_And_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/DIV_64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Digital_Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Grandfather_Dovlet_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Happy_Birthday_Polycarp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/If_At_First_You_Dont_Succeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Level_Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Codeforces_Sheet/Playing_With_Paper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Coin_Flip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Dice_Throw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Maze_Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Subsequences.java" afterDir="false" />
+    <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="Questions added">
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_445/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_445/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_445/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_445/Problem_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/AtCoder_Begineer_Contest_446/Problem_E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Begineer_Contest_444/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Begineer_Contest_444/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Begineer_Contest_444/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Begineer_Contest_444/Problem_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtCoder_Contests/Regular_Contest_214/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef_Contests/Starters_224/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_15_2026_Div3/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_15_2026_Div3/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_15_2026_Div3/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_15_2026_Div3/Problem_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/Post_Contest_Questions/Sorting_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Backtracking/Coin_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Backtracking/Queen_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/February_05_2026/Tower_Of_Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/February_18/Palindrome_Partitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Bit_Manipulation/Binary_To_Decimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Bit_Manipulation/Decimal_To_Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Graphs/Representation_In_Java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Notes" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Notes" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Monu_Bhaiya/February_18/Palindrome_Partitioning.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Striever_A2Z_Sheet/Dynaming_Programming/Ninjas_Training.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -81,6 +80,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Array_Coloring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binary_To_Decimal.executor&quot;: &quot;Run&quot;,
     &quot;Application.Catch_The_Coin.executor&quot;: &quot;Run&quot;,
     &quot;Application.Check_Palindrome.executor&quot;: &quot;Run&quot;,
     &quot;Application.Check_Sorted.executor&quot;: &quot;Run&quot;,
@@ -92,6 +92,7 @@
     &quot;Application.Day_08.executor&quot;: &quot;Run&quot;,
     &quot;Application.Day_09.executor&quot;: &quot;Run&quot;,
     &quot;Application.Day_14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Decimal_To_Binary.executor&quot;: &quot;Run&quot;,
     &quot;Application.Dice_Throw.executor&quot;: &quot;Run&quot;,
     &quot;Application.Digital_Sequence.executor&quot;: &quot;Run&quot;,
     &quot;Application.Fabonacci.executor&quot;: &quot;Run&quot;,
@@ -104,10 +105,12 @@
     &quot;Application.Huge_Pile.executor&quot;: &quot;Run&quot;,
     &quot;Application.If_At_First_You_Dont_Succeed.executor&quot;: &quot;Run&quot;,
     &quot;Application.Level_Statistics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Max_Element.executor&quot;: &quot;Run&quot;,
     &quot;Application.Min_Element.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ninjas_Training.executor&quot;: &quot;Run&quot;,
     &quot;Application.Operations_With_Inversions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome_Partitioning.executor&quot;: &quot;Run&quot;,
     &quot;Application.Playing_With_Paper.executor&quot;: &quot;Run&quot;,
     &quot;Application.Power.executor&quot;: &quot;Run&quot;,
     &quot;Application.Print_Ascending.executor&quot;: &quot;Run&quot;,
@@ -118,8 +121,10 @@
     &quot;Application.Problem_D.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_E.executor&quot;: &quot;Run&quot;,
     &quot;Application.Prod_Digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queen_Permutation.executor&quot;: &quot;Run&quot;,
     &quot;Application.Reverse_Num.executor&quot;: &quot;Run&quot;,
     &quot;Application.Social_Experiment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorting_Game.executor&quot;: &quot;Run&quot;,
     &quot;Application.Subsequences.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sum_Digits.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sum_Num.executor&quot;: &quot;Run&quot;,
@@ -142,10 +147,11 @@
       <recent name="Codeforces_Contests" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AtCoder_Contests.AtCoder_Begineer_Contest_446" />
+      <recent name="Codeforces_Contests.January_15_2026_Div3" />
+      <recent name="AtCoder_Contests.AtCoder_Begineer_Contest_445" />
+      <recent name="AtCoder_Contests.Begineer_Contest_444" />
       <recent name="AtCoder_Contests.January_31_2026" />
-      <recent name="Codeforces_Contests.January_29_2026" />
-      <recent name="Codeforces_Contests.January_25_2026" />
-      <recent name="Monu_Bhaiya.Recursion.Recursion_Sheet" />
     </key>
   </component>
   <component name="TaskManager">
@@ -220,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768818367200</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Questions added">
+      <option name="closed" value="true" />
+      <created>1769972476694</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1769972476694</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +263,7 @@
     <MESSAGE value="Day 09 Done" />
     <MESSAGE value="Solved Triangle Problem" />
     <MESSAGE value="Codeforces DIV4 question solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Questions added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Questions added" />
   </component>
 </project>

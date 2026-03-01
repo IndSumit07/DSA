@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="Questions added">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_21_Div2/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_23_Div2/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_23_Div2/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_27_2026_Div3/Problem_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_27_2026_Div3/Problem_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_27_2026_Div3/Problem_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_27_2026_Div3/Problem_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion_Backtracking_Assignment/All_Indices_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion_Backtracking_Assignment/First_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion_Backtracking_Assignment/Generate_Binary_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion_Backtracking_Assignment/Last_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion_Backtracking_Assignment/Recursion_Keypad_Codes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion_Backtracking_Assignment/Replace_All_Pi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codeforces_Contests/February_21_Div2/Problem_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_21_Div2/Problem_A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codeforces_Contests/February_21_Div2/Problem_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_21_Div2/Problem_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codeforces_Contests/Template.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces_Contests/February_21_Div2/Problem_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces_Contests/February_21_Div2/Problem_C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,81 +62,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array_Coloring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Binary_To_Decimal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Catch_The_Coin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_Sorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Coin_Flip.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Occur.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_digits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DIV_64.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day_01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day_08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day_09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day_14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Decimal_To_Binary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dice_Throw.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Digital_Sequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fabonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fact_Num.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.First_Occur.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Grandfather_Dovlet_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Happy_Birthday_Polycarp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hourglass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Huge_Pile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If_At_First_You_Dont_Succeed.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Level_Statistics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Max_Element.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Min_Element.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ninjas_Training.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operations_With_Inversions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome_Partitioning.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Playing_With_Paper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Print_Ascending.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Print_Decending.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem_A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem_B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem_C.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem_D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem_E.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prod_Digits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Queen_Permutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_Num.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Social_Experiment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sorting_Game.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Subsequences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Digits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Num.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Of_Element.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unique_Paths.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unique_Paths_2.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/devel/OneDrive/Desktop/DSA/DSA&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/devel/OneDrive/Desktop/Daily DSA/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.All_Indices_Problem.executor": "Run",
+    "Application.Array_Coloring.executor": "Run",
+    "Application.Binary_To_Decimal.executor": "Run",
+    "Application.Catch_The_Coin.executor": "Run",
+    "Application.Check_Palindrome.executor": "Run",
+    "Application.Check_Sorted.executor": "Run",
+    "Application.Coin_Flip.executor": "Run",
+    "Application.Count_Occur.executor": "Run",
+    "Application.Count_digits.executor": "Run",
+    "Application.DIV_64.executor": "Run",
+    "Application.Day_01.executor": "Run",
+    "Application.Day_08.executor": "Run",
+    "Application.Day_09.executor": "Run",
+    "Application.Day_14.executor": "Run",
+    "Application.Decimal_To_Binary.executor": "Run",
+    "Application.Dice_Throw.executor": "Run",
+    "Application.Digital_Sequence.executor": "Run",
+    "Application.Fabonacci.executor": "Run",
+    "Application.Fact_Num.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.First_Occur.executor": "Run",
+    "Application.First_index.executor": "Run",
+    "Application.Generate_Binary_Strings.executor": "Run",
+    "Application.Grandfather_Dovlet_Calculator.executor": "Run",
+    "Application.Happy_Birthday_Polycarp.executor": "Run",
+    "Application.Hourglass.executor": "Run",
+    "Application.Huge_Pile.executor": "Run",
+    "Application.If_At_First_You_Dont_Succeed.executor": "Run",
+    "Application.Last_index.executor": "Run",
+    "Application.Level_Statistics.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Max_Element.executor": "Run",
+    "Application.Min_Element.executor": "Run",
+    "Application.Ninjas_Training.executor": "Run",
+    "Application.Operations_With_Inversions.executor": "Run",
+    "Application.Palindrome_Partitioning.executor": "Run",
+    "Application.Playing_With_Paper.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.Print_Ascending.executor": "Run",
+    "Application.Print_Decending.executor": "Run",
+    "Application.Problem_A.executor": "Run",
+    "Application.Problem_B.executor": "Run",
+    "Application.Problem_C.executor": "Run",
+    "Application.Problem_D.executor": "Run",
+    "Application.Problem_E.executor": "Run",
+    "Application.Prod_Digits.executor": "Run",
+    "Application.Queen_Permutation.executor": "Run",
+    "Application.Replace_All_Pi.executor": "Run",
+    "Application.Reverse_Num.executor": "Run",
+    "Application.Social_Experiment.executor": "Run",
+    "Application.Sorting_Game.executor": "Run",
+    "Application.Subsequences.executor": "Run",
+    "Application.Sum_Digits.executor": "Run",
+    "Application.Sum_Num.executor": "Run",
+    "Application.Sum_Of_Element.executor": "Run",
+    "Application.Triangle.executor": "Run",
+    "Application.Unique_Paths.executor": "Run",
+    "Application.Unique_Paths_2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/devel/OneDrive/Desktop/DSA/DSA",
+    "onboarding.tips.debug.path": "C:/Users/devel/OneDrive/Desktop/Daily DSA/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Codeforces_Contests" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Monu_Bhaiya.Recursion_Backtracking_Assignment" />
+      <recent name="Codeforces_Contests.February_27_2026_Div3" />
+      <recent name="Codeforces_Contests.February_23_Div2" />
       <recent name="Codeforces_Contests.February_21_Div2" />
       <recent name="AtCoder_Contests.AtCoder_Begineer_Contest_446" />
-      <recent name="Codeforces_Contests.January_15_2026_Div3" />
-      <recent name="AtCoder_Contests.AtCoder_Begineer_Contest_445" />
-      <recent name="AtCoder_Contests.Begineer_Contest_444" />
     </key>
   </component>
   <component name="TaskManager">
@@ -226,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771682144010</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Questions added">
+      <option name="closed" value="true" />
+      <created>1771734108268</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771734108268</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

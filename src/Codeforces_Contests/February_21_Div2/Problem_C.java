@@ -8,14 +8,7 @@ public class Problem_C {
         int t = sc.nextInt();
 
         while(t-->0){
-            int n = sc.nextInt();
-            long h = sc.nextLong();
-            long k = sc.nextLong();
 
-            long[] bullets = new long[n];
-            for(int i=0; i<n; i++){
-                bullets[i]=sc.nextLong();
-            }
 
         }
     }

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class BoilerPlate {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
     static StringBuilder sb = new StringBuilder();
@@ -18,7 +18,7 @@ public class Main {
         int n = nextInt();
         // your code here
 
-        
+
     }
 
     // ─── Input Helpers ───────────────────────────────────────────
